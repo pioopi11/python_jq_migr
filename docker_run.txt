@@ -1,0 +1,2 @@
+sudo docker run --rm --name pyjq_run -v /home/essemax/Документы/python_projekt/12113:/home/myadmin pyjqm
+
